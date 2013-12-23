@@ -3,7 +3,7 @@ Holder
 
 ![](http://imsky.github.io/holder/images/header.png)
 
-Holder uses the `canvas` element and the data URI scheme to render image placeholders entirely in browser.
+Holder uses the svg to render the image with `canvas` fallback, placeholders are entirely rendered in the browser.
 
 [Bootstrap](http://getbootstrap.com) uses Holder for thumbnails.
 
